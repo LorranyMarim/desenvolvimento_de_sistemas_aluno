@@ -1,0 +1,44 @@
+Definição dos Grupos:
+
+MAGID:
+Andrey Rafael
+Davi Herick
+Gabriel Avelino
+Gabriel Felipe
+Ingrid Kamilly
+Maria Gabriela
+--------------------
+
+RGA:
+Alexandre Henrich Rodrigues Soares
+Felipe Augusto Rocha 
+Rafael Martins 
+Eduardo Henrique 
+Gustavo Pratres
+Kauã Lucas
+--------------------
+
+Tech Prime:
+GABRIEL DUARTE
+YURI DUARTE
+GABRIEL ÁVILA
+GABRIEL RANDOLFO
+DAVI ANGELO
+YAGO OLIVEIRA
+--------------------
+
+Lucky Guy:
+Eduardo Amorim
+Allana Lis 
+Rogerio Maia 
+Arthur Lopes 
+Natalia Teixeira
+--------------------
+
+InovaCode Solutions:
+Amanda 
+Pedro
+Cauã
+João 
+César 
+Isabela

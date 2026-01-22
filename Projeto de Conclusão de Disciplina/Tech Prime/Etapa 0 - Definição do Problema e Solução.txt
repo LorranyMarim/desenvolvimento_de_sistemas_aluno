@@ -1,0 +1,3 @@
+Barbearias que trabalham com grande fluxo de clientes enfrentam dificuldades para controlar , e , gerando diversos problemas operacionais.
+
+A solução proposta é um sistema integrado de , e , criado para organizar o fluxo de atendimento da barbearia e reduzir atrasos, confusões e perda de clientes.

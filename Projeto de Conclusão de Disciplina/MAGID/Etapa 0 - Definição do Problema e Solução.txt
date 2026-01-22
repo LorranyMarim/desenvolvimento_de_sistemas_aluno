@@ -1,0 +1,9 @@
+Problema: Pequenas empresas precisam usar vários sistemas separados para gerenciar estoque, vendas, financeiro, notas, funcionários etc.
+Isso gera bagunça e perda de dados.
+
+Solução: App com controle de estoque automatizado;Módulo de vendas e pedidos
+Emissão de notas (integração API);
+Controle financeiro (contas a pagar/receber);
+Cadastro de clientes e fornecedores;
+Módulo de RH (ponto + documentação);
+Painel geral com indicadores.

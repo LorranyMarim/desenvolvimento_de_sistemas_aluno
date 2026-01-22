@@ -1,0 +1,2 @@
+Problema: Cuidadores de idosos ou pessoas dependentes enfrentam sobrecarga e desorganização, tendo dificuldade em gerenciar tarefas diárias, comunicar-se com familiares e acompanhar a saúde do paciente de forma eficiente.
+Solução: Criar um app ou site que centralize tarefas, alertas e comunicação entre cuidadores e familiares, permitindo organizar atividades diárias, enviar lembretes, acompanhar o histórico de cuidados e trocar informações em tempo real, reduzindo esquecimentos e sobrecarga.
