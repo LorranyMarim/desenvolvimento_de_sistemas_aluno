@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iron Fitness | Transforme seu corpo</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">IRON<span>FITNESS</span></div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="home" class="hero">
+        <div class="hero-content">
+            <h1>O SEU RESULTADO COMEÇA <span>AQUI.</span></h1>
+            <p>Treinos personalizados, equipamentos de ponta e os melhores profissionais da região.</p>
+
+            <div class="cta-buttons">
+                <a href="{{ url_for('login') }}" class="btn btn-login">ENTRAR</a>
+                <a href="{{ url_for('cadastro') }}" class="btn btn-signup">CADASTRAR</a>
+            </div>
+        </div>
+    </main>
+
+    <section id="sobre" class="features">
+        <div class="feature-card">
+            <h3>Musculação</h3>
+        </div>
+        <div class="feature-card">
+            <h3>Crossfit</h3>
+        </div>
+        <div class="feature-card">
+            <h3>Natação</h3>
+        </div>
+    </section>
+
+</body>
+
+</html>
